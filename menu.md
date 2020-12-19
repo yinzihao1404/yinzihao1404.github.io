@@ -1,6 +1,6 @@
 ### menu
 
-[luogu](https://www.luogu.com.cn)
+[luogu](https://www.luogu.com.cn/)
 ```cpp
 
 ```
